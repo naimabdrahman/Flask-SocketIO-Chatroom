@@ -11,8 +11,7 @@ If you prefer, you can also start the server using the Flask cli:
     $ FLASK_APP=chat.py flask run
 
 
-
-
-
-app is running fine tested on centos 7
+app is running fine and tested on centos 7
 it requires a python 2.7, "Development Tools" group and python-development package
+
+
